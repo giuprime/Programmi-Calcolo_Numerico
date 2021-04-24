@@ -9,5 +9,7 @@ Nel sesto gruppo:   implementazione e analisi dei risultati dei metodi iterativi
 Nel settimo gruppo: implementazione e analisi dei risultati dei polinomi di interpolazione.
 
 Per la realizzazione degli esercizi sono state utilizzate le seguenti tecnologie: Fortran e MATLAB.
-
 Esercizi sviluppati in collaborazione del collega Emanuele Infortuna.
+
+In this directory is present the analysis of the result for different type of matrix (Vandermonde, Wilkinson, and others). In the seventh group is present the interpolation polynomial.
+The exercises were developed in collaboration with Emanuele Infortuna.
